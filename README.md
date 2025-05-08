@@ -3,13 +3,21 @@
 This my project
 
 
-# Header 1
+# Imaging Technique Inspiration 1
+
+
+
 ## Header 2
 ### Header 3
-#### Header 4
+
+#### My art project aims to explore dreamy and surreal visual aesthetics 4
+
 ##### Header 5
 ###### Header 6
 
+
+
+# Coding Technique Exploration 1
 
 **Bold Text** or __Bold Text__
 
