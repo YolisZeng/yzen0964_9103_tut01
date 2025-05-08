@@ -1,8 +1,8 @@
 # Quiz 8
 
-**My art project aims to explore dreamy and surreal visual aesthetics**
+**My art project aims to explore dreamy and surreal visual aesthetics. **
 
-# Imaging Technique Inspiration 1
+# Imaging Technique Inspiration
 
 This artwork uses programming to reconstruct eight ancient artifacts, showing how broken relics come to life through the ripples of time from a digital art perspective. The fragmented particle effect is very inspiring, and I hope to apply this reconstruction technique in my final project.
 
@@ -47,7 +47,7 @@ I was inspired by the project’s layered visuals and floating mix of ruins and 
 ![An image of the Artwork Reference1](readmeImages/12.png)
 
 
-# Coding Technique Exploration 1
+# Coding Technique Exploration
 
 Pixel Swapper can help me create this kind of particle effect. This code uses the get() and set() functions in p5.js to randomly swap pixels in an image. By repeating this process, it creates a flowing, glitchy distortion effect that helps me achieve a dreamy and surreal visual style.
 
@@ -69,58 +69,4 @@ This code creates a parallax effect by moving dots at different speeds based on 
 
 ![An image of the Artwork Reference1](readmeImages/15.png)
 
-
-
-
-
-
-[Link Text](https://www.google.com)
-
-
-
-
-
-
-
-##### Header 5
-###### Header 6
-
-
-
-
-
-
-**Bold Text** or __Bold Text__
-
-*Italic Text* or _Italic Text_
-
-
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2 dsfjisojfoso
-
-
-1. First Item
-2. Second Item
-3. Third Item
-
-[Link Text](https://www.google.com)
-
-
-![An image of a cat](https://i.pinimg.com/736x/0c/5e/a4/0c5ea451dda755d0fa4db0da50e35e17.jpg)
-
-I use [Google](https://www.google.com.hk/webhp?hl=zh-CN&sourceid=cnhp&gws_rd=ssl) to search for my result
-
-![An image of the pic](readmeImages/testpic.png)
-
-
-```
-function helloWorld() {
-console.log("Hello, world!");
-}
-```
-
-> This is a blockquote.
-
-![An image of a my husband](https://i.pinimg.com/736x/01/dd/b9/01ddb9a9e8a8069912d5ace626a84ef6.jpg)
+#### yzen0964 Yulin Zeng 550113469
