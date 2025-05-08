@@ -1,6 +1,6 @@
 # Quiz 8
 
-**My art project aims to explore dreamy and surreal visual aesthetics. **
+**My art project aims to explore dreamy and surreal visual aesthetics**
 
 # Imaging Technique Inspiration
 
