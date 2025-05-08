@@ -74,7 +74,6 @@ This code creates a parallax effect by moving dots at different speeds based on 
 
 
 
-
 [Link Text](https://www.google.com)
 
 
