@@ -5,8 +5,11 @@
 # Imaging Technique Inspiration 1
 
 This artwork uses programming to reconstruct eight ancient artifacts, showing how broken relics come to life through the ripples of time from a digital art perspective. The fragmented particle effect is very inspiring, and I hope to apply this reconstruction technique in my final project.
+
 [Artwork Reference Link1](https://www.bilibili.com/video/BV1DC4y1d7gd/?spm_id_from=333.337.search-card.all.click&vd_source=a1518caac7875e4722f1d25a07010a11)
-![An image of the Artwork Reference1](readmeImages/1.png) ![An image of the Artwork Reference1](readmeImages/2.png)
+
+![An image of the Artwork Reference1](readmeImages/1.png) 
+![An image of the Artwork Reference1](readmeImages/2.png)
 ![An image of the Artwork Reference1](readmeImages/3.png)
 ![An image of the Artwork Reference1](readmeImages/4.png)
 
